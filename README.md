@@ -4,5 +4,6 @@
 
 ### [脸书algo](https://github.com/slayAlphalu/LeetCode/tree/master/LeetCode%20algo%20Facebook)
 
-### [鹅厂algo] (https://github.com/slayAlphalu/LeetCode/tree/master/鹅厂)
+### [鹅厂algo] 
+(https://github.com/slayAlphalu/LeetCode/tree/master/鹅厂)
 
