@@ -6,3 +6,5 @@
 
 ### [鹅厂algo](https://github.com/slayAlphalu/LeetCode/tree/master/鹅厂)
 
+###[wayfair] (https://github.com/slayAlphalu/LeetCode/blob/master/leetcode-wayfair.ipynb)
+
